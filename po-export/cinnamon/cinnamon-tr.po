@@ -22,7 +22,7 @@ msgstr ""
 #: js/ui/notificationDaemon.js:553
 #: files/usr/share/cinnamon/applets/power@cinnamon.org/applet.js:69
 msgid "Unknown"
-msgstr "Bilinmiyen"
+msgstr "Bilinmeyen"
 
 #: src/cinnamon-app.c:701
 #, c-format
@@ -150,12 +150,12 @@ msgstr "Bunu sil"
 
 #: js/ui/appletManager.js:403
 msgid "Move to another panel"
-msgstr "Diğer panel taşı"
+msgstr "Başka bir panele taşı"
 
 #: js/ui/appletManager.js:462
 msgid ""
 "A suitable panel could not be found. The applet has been removed instead."
-msgstr "Uygun bir panel bulunamadı. Bunun yerine uygulama kaldırıldı."
+msgstr "Uygun bir panel bulunamadı. Bunun yerine uygulamacık kaldırıldı."
 
 #: js/ui/appletManager.js:717
 msgid ""
@@ -957,11 +957,11 @@ msgstr "Bildirim yok"
 
 #: files/usr/share/cinnamon/applets/notifications@cinnamon.org/applet.js:295
 msgid " notification"
-msgstr " Bildirim"
+msgstr " bildirim"
 
 #: files/usr/share/cinnamon/applets/notifications@cinnamon.org/applet.js:298
 msgid " notifications"
-msgstr " Bildirimler"
+msgstr " bildirimler"
 
 #: files/usr/share/cinnamon/applets/notifications@cinnamon.org/applet.js:319
 msgid "just now"
@@ -1146,8 +1146,8 @@ msgstr "Pil gücü kullanıyor"
 #, javascript-format
 msgid "Using battery power - %d hour remaining"
 msgid_plural "Using battery power - %d hours remaining"
-msgstr[0] "Pil gücü kullanıyor - %d saat kaldı"
-msgstr[1] "Pil gücü kullanıyor - %d saat kaldı"
+msgstr[0] "Pil gücü kullanılıyor - %d saat kaldı"
+msgstr[1] "Pil gücü kullanılıyor - %d saat kaldı"
 
 #: files/usr/share/cinnamon/applets/power@cinnamon.org/applet.js:382
 #, javascript-format
